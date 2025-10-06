@@ -14,3 +14,5 @@ function multiply(a,b){
 }
 
 console.log('ertytrewwert')
+
+var a =10 
