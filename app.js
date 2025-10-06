@@ -14,3 +14,6 @@ function multiply(a,b){
 }
 
 console.log('ertytrewwert')
+
+var list = [1,2,3,4,5]
+
