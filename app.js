@@ -12,3 +12,5 @@ function doso (){
 function multiply(a,b){
     return a+ b
 }
+
+console.log('ertytrewwert')
