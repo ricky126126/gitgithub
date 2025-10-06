@@ -8,3 +8,7 @@ function abc(){
 function doso (){
     console.log('ewbwjfberfje')
 }
+
+function multiply(a,b){
+    return a+ b
+}
